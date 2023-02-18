@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/home-react-01/static/css/main.7acaea2f.css",
+    "main.js": "/home-react-01/static/js/main.cafdaebe.js",
+    "index.html": "/home-react-01/index.html",
+    "main.7acaea2f.css.map": "/home-react-01/static/css/main.7acaea2f.css.map",
+    "main.cafdaebe.js.map": "/home-react-01/static/js/main.cafdaebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.cafdaebe.js"
+  ]
+}
